@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I am a recent graduate diving into the analytical world through self learning and project creations.
+:penguin: I am a recent graduate diving into the analytical world through self learning and project creations.
 
-Currently open for work, and working on side projects revolving around data analytics surrounding healthcare and tech.
+:notebook: Currently open for work, and working on side projects revolving around data analytics surrounding healthcare and tech.
 
-Current tools/softwares used and experience with:
+:pencil2: **Current tools/softwares used and experience with:**
   - SQL/SQlite
   - Power BI
   - Excel
@@ -12,4 +12,4 @@ Current tools/softwares used and experience with:
   - After Effects
   - Premier Pro
 
-Reachable through LinkedIn or Handshake in Bio 
+:link: Reachable through LinkedIn or Handshake in Bio 
