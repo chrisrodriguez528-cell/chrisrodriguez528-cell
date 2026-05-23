@@ -12,4 +12,4 @@ Current tools/softwares used and experience with:
   - After Effects
   - Premier Pro
 
-Reachable through LinkedIn or Handshake Link in Bio 
+Reachable through LinkedIn or Handshake in Bio 
