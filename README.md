@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-:penguin: I am a recent graduate diving into the analytical world through self learning and project creations.
+:penguin: Recent graduate diving into the analytical world through self learning and project creations.
 
 :notebook: Currently open for work, and working on side projects revolving around data analytics surrounding healthcare and tech.
 
